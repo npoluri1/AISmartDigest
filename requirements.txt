@@ -1,0 +1,12 @@
+fastapi<0.110
+uvicorn<0.30
+pydantic<2
+httpx
+typer>=0.15
+rich>=13.0
+playwright>=1.48
+yt-dlp>=2024.12
+youtube-transcript-api>=0.6
+aiofiles>=24.1
+python-multipart>=0.0.9
+streamlit>=1.35
